@@ -2,9 +2,7 @@
 
 My first Power BI project, built using Microsoft’s Financial Sample dataset. I used it to explore a straightforward question: ** are the products and markets generating the most sales also the most profitable?**
 
-![Sales and Profit Performance Dashboard](dashboard.png)
-
-[View dashboard PDF](Sales_Profit_Dashboard.pdf) · [Download Power BI report](Sales_Profit_Dashboard.pbix)
+[View dashboard PDF](Sales_Profit_Dashboard.pdf) · 
 
 ## Project overview
 
